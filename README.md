@@ -1,9 +1,19 @@
-I’m a recent Master’s graduate of the Applied Data Science for Business program at Portland State University, with a passion for turning complex data into clear, actionable insights that drive smarter decisions.
+# Business Analyst
 
-With a background in physics and experience in healthcare operations, I’ve developed dashboards, automated workflows, and improved reporting systems to enhance efficiency and collaboration. I’m proficient in Python, R, SQL, Excel, and Tableau. I enjoy bridging technical analysis with real-world business needs.
+### Education
+M.S., Applied Data Science for Business (4.0)
+Portland State University, June 2025
 
-My recent capstone focused on generative AI adoption strategies, combining usage data, stakeholder interviews, and industry research to deliver actionable insights.
+B.S., Physics
+Portland State University, December 2019
 
-I’m especially interested in opportunities where I can contribute to data-driven transformation, whether through operations, analytics, or strategy. I'm seeking an early career analyst role on a collaborative, mission-driven team.
+### Work Experience
+#### Medical Editor - March 2022 - March 2025
+CTA Pathology
+- Assignment Dashboard
+- Macro automation
+- Specimen tracking
+Lab Assistant @ CTA Pathology
+- Volume tracking
 
-Let’s connect if you’re working on data-driven transformation or looking for early career analysts ready to hit the ground running.
+### Projects
