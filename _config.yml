@@ -1,5 +1,10 @@
 title: Kyle Boutell
 logo: docs/assets/images/Headshot.jpg
-description: I recently graduated with my Master's in Applied Data Science for Business from Portland State University. Now I am looking for a role that will allow me to put my skills into practice.
+description: >
+  <h4>M.S. Applied Data Science for Business</h4>
+  <em>Portland State University, June 2025</em>
+  <br></br>
+  I graduated last month and I am now looking for a full time Business Analytics role that will allow me to continue to grow my skills.
 #show_downloads: True
-theme: jekyll-theme-slate
+theme: jekyll-theme-minamal
+google_analytics: G-381R44YDDF
