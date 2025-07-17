@@ -3,8 +3,8 @@
 <h4>Technical Skills: Python, SQL, R, Tableau, Excel</h4>
 
 <h2>Education</h2>  
-<p>M.S., Applied Data Science for Business<br><em>Portland State University,</em> June 2025</p>
-<p>B.S., Physics<br><em>Portland State University</em>, December 2019</p>  
+<p><strong>M.S., Applied Data Science for Business</strong><br><em>Portland State University,</em> June 2025</p>
+<p><strong>B.S., Physics</strong><br><em>Portland State University</em>, December 2019</p>  
 
 <h2>Work Experience</h2>  
 <strong>Medical Editor</strong> <em>@ CTA Pathology (March 2022 - March 2025)</em>
